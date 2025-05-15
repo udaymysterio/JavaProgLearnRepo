@@ -1,6 +1,6 @@
 package smallJava;
 
-public class permutationString {
+public class PermutationString {
     public static String swapString(String a, int i, int j) {
        char[] b =a.toCharArray();
        char ch;

@@ -2,7 +2,7 @@ package NumericPackage;
 
 import java.util.Scanner;
 
-public class reverseNum {
+public class ReverseNum {
     public static void main(String[] args) {
         int no, rev=0,r,a;
         Scanner scanner = new Scanner(System.in);

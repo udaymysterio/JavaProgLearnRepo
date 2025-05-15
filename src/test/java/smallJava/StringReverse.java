@@ -1,6 +1,6 @@
 package smallJava;
 
-public class stringReverse {
+public class StringReverse {
     public
     static void main(String[] args) {
         String original = "automation";

@@ -2,7 +2,7 @@ package NumericPackage;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class randomNum {
+public class RandomNum {
     public static int getRandomValue(int Min, int Max) {
 
     return ThreadLocalRandom.current().nextInt(Min, Max + 1);

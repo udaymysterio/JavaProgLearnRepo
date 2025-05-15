@@ -2,7 +2,7 @@ package ArrayPackage;
 
 import java.util.Arrays;
 
-public class dupArrayRemove {
+public class DupArrayRemove {
     public static int removedup(int[] arr) {
         if (arr.length == 0) return 0;
         int index = 1;

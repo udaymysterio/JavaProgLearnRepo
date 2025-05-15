@@ -1,6 +1,6 @@
 package smallJava;
 
-public class vowelConsonant {
+public class VowelConsonant {
     public static void  main(String[] args) {
         String str = "Automation Manual testing";
         str = str.toLowerCase();

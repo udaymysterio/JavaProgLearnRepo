@@ -1,6 +1,6 @@
 package smallJava;
 
-public class lowerUpperCase {
+public class LowerUpperCase {
     public static void toLowerCase(String a) {
         for (int i = 0; i<a.length(); i++) {
             char character = a.charAt(i);

@@ -1,6 +1,6 @@
 package NumericPackage;
 
-public class secondLargestNum {
+public class SecondLargestNum {
     public static int secondLargest(int[] arr) {
         int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE;
         for(int num : arr) {

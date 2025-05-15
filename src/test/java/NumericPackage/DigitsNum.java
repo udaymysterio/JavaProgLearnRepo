@@ -2,7 +2,7 @@ package NumericPackage;
 
 import java.util.Scanner;
 
-public class digitsNum {
+public class DigitsNum {
     public static void main(String[] args) {
         int no = 0, a = 0;
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package NumericPackage;
 
-public class digitsSum {
+public class DigitsSum {
     public static void main(String[] args) {
         int number = 12345;
         int sumDigits = calculateSumOfDigits(number);

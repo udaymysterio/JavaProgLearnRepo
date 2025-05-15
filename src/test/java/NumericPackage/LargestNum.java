@@ -1,6 +1,6 @@
 package NumericPackage;
 
-public class largestNum {
+public class LargestNum {
     public static int findLargest(int[] arr) {
 
         int max = arr[0];

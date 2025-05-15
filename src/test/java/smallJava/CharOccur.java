@@ -2,7 +2,7 @@ package smallJava;
 
 import java.util.HashMap;
 
-public class charOccur {
+public class CharOccur {
     public static void main(String[] args) {
         String str = "automationManualTesting";
         HashMap<Character, Integer> charCount = new HashMap<>();
